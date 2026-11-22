@@ -38,7 +38,7 @@ Como estudiante en etapa formativa, este portafolio evolutivo documenta mis avan
 Mantengo una identidad profesional coherente e interconectada en las plataformas digitales:
 
 - **Perfil Profesional en LinkedIn:** [linkedin.com/in/oliver-oses-utp](https://www.linkedin.com/in/oliver-oses-1a93b8450/)
-- **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado](./CV_Oliver_Oses.pdf)
+- **Curriculum Vitae Digital (PDF):** [Descargar CV Actualizado]()
 - **Correo Institucional UTP:** oliver.oses@utp.ac.pa
 
 <p align="center">
