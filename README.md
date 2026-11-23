@@ -1,10 +1,10 @@
-# OliverOses
+# Oliver Oses | Ciberseguridad
 Perfil profesional y portafolio académico - UTP
 # | Perfil Profesional
 
 > *"Construyendo una huella digital segura y ética."*
 
-### 1. Importancia de la Marca Digital
+### 1. Mi Marca Digital
 
 ¡Hola! Soy **Oliver Oses**, estudiante de la Facultad de Ingeniería de Sistemas Computacionales en la **Universidad Tecnológica de Panamá**.  
 Entiendo la marca personal no como un currículum estático, sino como la demostración activa de mi aprendizaje continuo, la ética profesional en el manejo de la información y la colaboración en entornos digitales.
@@ -18,7 +18,7 @@ Entiendo la marca personal no como un currículum estático, sino como la demost
 
 ### 2. Creación de Portafolio Profesional Digital (Habilidades y Proyectos)
 
-Como estudiante en etapa formativa, este portafolio evolutivo documenta mis avances prácticos y laboratorios desarrollados durante la carrera:
+Como estudiante en etapa formativa, con este portafolio evolutivo documenta mis avances prácticos y laboratorios desarrollados durante la carrera:
 
 #### Tecnologías y Herramientas en Proceso de Aprendizaje:
 - **Sistemas Operativos:** Linux (Arch/CachyOS, Ubuntu/Debian), Windows
